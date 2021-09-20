@@ -24,8 +24,8 @@ learning training or data processing:
 
 1. `dvc metrics` represent **scalar numbers** such as AUC, _true positive rate_,
    etc.
-2. `dvc plots` can be used to visualize **data series** (such as AUC curves,
-   loss functions, confusion matrices, etc.).
+2. `dvc plots` can be used to visualize **data series** such as AUC curves, loss
+   functions, confusion matrices, etc.
 
 ## Description
 
